@@ -308,7 +308,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site=' BOT SITE <3 http://ummee-bot.tk/ <3 
+$site=' B| UMMEE BOT TEAM B| 
 <3 BOT MAKER : UMAIR MALIK II <3';
 $true=$ops.'
 :3 '.$eps.'
